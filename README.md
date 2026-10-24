@@ -2,8 +2,6 @@
 
 A Python-based mini project that explores online transaction data and trains machine learning classifiers to identify potentially fraudulent transactions.
 
-The project follows the general workflow described in the GeeksforGeeks tutorial, with additional data checks and evaluation metrics suited to an imbalanced fraud-detection dataset.
-
 ## Project Objectives
 
 - Understand transaction data through descriptive statistics and exploratory data analysis (EDA).
@@ -160,7 +158,3 @@ The notebook also displays a confusion matrix for the selected model. In fraud d
 - The default prediction threshold of `0.5` may not be appropriate for real-world fraud costs.
 - The dataset's simulation time step and identifiers should not be interpreted as verified real-world customer information.
 - A prediction indicates a pattern learned from this dataset; it does not prove that a transaction is fraudulent.
-
-## Acknowledgement
-
-This project is based on the learning workflow presented in the [GeeksforGeeks Online Payment Fraud Detection tutorial](https://www.geeksforgeeks.org/machine-learning/online-payment-fraud-detection-using-machine-learning-in-python/). The notebook has been organized for local execution and includes additional validation and evaluation steps.
