@@ -1,0 +1,16 @@
+# Core data analysis
+numpy
+pandas
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine learning and evaluation
+scikit-learn
+xgboost
+
+# Jupyter Notebook support
+notebook
+ipykernel
+ipython
